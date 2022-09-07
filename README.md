@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**AymanChatki1/AymanChatki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Ayman CHATKI</h1>
 <h3 align="center">A passionate web developement student.</h3>
 
