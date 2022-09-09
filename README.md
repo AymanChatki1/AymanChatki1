@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayman CHATKI</h1>
-<h3 align="center">A passionate web developement student.</h3>
+<h3 align="center">I've been interested in computers for as long as I can remember.
+My passions are reading books, playing chess, philosophy and startup entrepreneurship.</h3>
 
 - 📫 How to reach me **chatkiayman@gmail.com**
 
