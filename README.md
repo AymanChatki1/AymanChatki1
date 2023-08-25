@@ -14,6 +14,6 @@ My passions are reading books, playing chess, philosophy and startup entrepreneu
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,babel,bash,tailwind,bootstrap,html,css,sass,js,ts,nodejs,jquery,react,nextjs,php,laravel,py,c,linux,vim,neovim,emacs,vscode,firebase,docker,mysql,postman,ps" />
   </a>
 </p>
